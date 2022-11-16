@@ -6,6 +6,8 @@ body {
 
 .homepage, .bg_image{
     background-image: url("../img/img_home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header{
@@ -18,7 +20,7 @@ header .logo{
 
 header .logo h2{
     font-weight: 900;
-    color: #F17300
+    color: #dc3545
 }
 header .logo p{
     color: rgb(153, 153, 153)
@@ -35,18 +37,18 @@ header .nav_button_right{
 #banner h1{
     font-size: 60px;
     font-weight: 900;
-    color: #F17300
+    color: #dc3545
 }
 
 #banner,#template_view h1{
     font-size: 60px;
     font-weight: 900;
-    color: #F17300
+    color: #dc3545
 }
 #banner h4{
     font-size: 28px;
     font-weight: 500;
-    color: #F17300
+    color: #dc3545
 }
 
 
